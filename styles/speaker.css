@@ -1,0 +1,132 @@
+
+* {
+    margin: 0;
+    padding: 0;} 
+
+html {
+    background-color:  white; }
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    width: 800px;
+    margin-top: 0em;
+    margin-bottom: 0em; 
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid #931420;
+    background-color: #fffded;} 
+
+section, aside{
+    padding-left: 20px;
+    padding-bottom: 20px;}
+
+section{
+    width: 525px;
+    float: right;
+    padding-right: 20px;}
+
+    aside{
+    width: 215px;
+    float: right;}
+
+aside h3{
+    font-size: 105%;
+    padding-bottom: .25em;}
+
+aside h2{
+    color: #800000;}
+
+article h1{
+    color: #800000;}
+
+aside img{
+    padding-bottom: 1em;}
+
+.shadow {
+    text-shadow: 2px 2px 4px #800000;}
+
+header {
+    padding-top: 1em;
+    padding-bottom: 2em;
+    border-bottom: 3px solid #931420;
+    background-image: -webkit-linear-gradient(to bottom, white 0%, #d4b27e 100%);
+    background-image: -moz-linear-gradient(to bottom, white 0%, #b49d7a 90%);
+    background-image: -o-linear-gradient(to bottom, white 0%, #facd8a 100%);
+    background-image: linear-gradient(to bottom, white 0%, #eeb154 80%);}
+
+header h2 {
+    font-size: 170%;
+    color: #800000;}
+
+header h3 {
+    font-size: 130%;
+    font-style: italic;}
+
+header img {
+    padding-right: 30px;
+    padding-left: 30px;
+	float: left;}
+
+main {
+	clear: left;}
+
+main article{
+    padding-bottom: .5em;}
+
+article img{
+    float: right;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-left: 5%;
+    border: 1px black;}
+
+main h1{
+    font-size: 150%;
+    padding-top: .5em;
+    padding-bottom: .25em;
+    margin-top: 0%;
+    margin-bottom: 0%;}
+
+main h2 {
+    padding-top: .5em;
+    padding-bottom: .25em;
+	font-size: 130%;}
+
+main h3{
+    padding-bottom: .25em;
+	font-size: 105%;}
+
+main a:hover {
+    font-style: italic;}
+
+main img{
+    padding-bottom: 1em;}
+
+main p {
+    padding-bottom: .5em;}
+
+main blockquote{
+    padding-left: 2em;
+    padding-right: 2em;
+    font-style: italic;}
+
+main ul {
+    padding-right: 1.25em;
+    padding-bottom: .25em;}
+
+main li{
+    padding-bottom: .35em;}
+
+footer {
+    clear: both;
+    background-color: #931420;
+    height: 45px;
+    width:100%;}
+
+footer p {
+    padding-top: 1em;
+    padding-bottom: 1em;
+    text-align: center;
+    color: white;}
+    
